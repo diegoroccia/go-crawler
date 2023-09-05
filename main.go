@@ -1,8 +1,8 @@
 package main
 
 import (
-	"channels/crawler"
-	"channels/fetcher"
+	"crawler/crawler"
+	"crawler/fetcher"
 
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"

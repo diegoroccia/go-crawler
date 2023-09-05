@@ -1,7 +1,7 @@
 package crawler
 
 import (
-	"channels/fetcher"
+	"crawler/fetcher"
 	"fmt"
 	"sync"
 )
